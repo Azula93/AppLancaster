@@ -72,7 +72,7 @@
                     android:contentDescription="@string/Icons"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@mipmap/logout" />
+                    app:srcCompat="@drawable/logout" />
 
             </androidx.constraintlayout.widget.ConstraintLayout>
 
