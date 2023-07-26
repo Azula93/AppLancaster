@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@mipmap/background"
-    tools:context=".MainActivity2">
+    tools:context=".LoginActivity">
 
     <ImageView
         android:id="@+id/img1"
@@ -62,7 +62,6 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="120dp"
         android:gravity="center"
-        android:onClick="siguiente2"
         android:text="@string/btn2"
         android:textSize="14sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -107,7 +106,7 @@
         android:layout_marginTop="400dp"
         android:layout_marginEnd="120dp"
         android:gravity="center"
-        android:onClick="siguiente1"
+
         android:text="@string/btn1"
         android:textSize="14sp"
         app:layout_constraintEnd_toEndOf="parent"
